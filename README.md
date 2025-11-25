@@ -13,7 +13,7 @@
 
 ## 📌 Sobre Mim
 
-Com 17 anos, sou estudante de Desenvolvimento de Sistemas na ETEC, com foco em soluções web utilizando JavaScript e C#. Apaixonado por tecnologia, tenho prazer em resolver problemas — sejam eles técnicos ou do dia a dia. Fora das telas, vibro com futebol, música e a riqueza da cultura suburbana, que me inspira a enxergar o mundo com criatividade e atitude.
+Com 18 anos, sou estudante de Desenvolvimento de Sistemas na ETEC, com foco em soluções web utilizando JavaScript e C#. Apaixonado por tecnologia, tenho prazer em resolver problemas — sejam eles técnicos ou do dia a dia. Fora das telas, vibro com futebol, música e a riqueza da cultura suburbana, que me inspira a enxergar o mundo com criatividade e atitude.
 
 ---
 
