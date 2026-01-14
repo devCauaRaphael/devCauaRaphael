@@ -6,14 +6,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/cauawlrd?igsh=MWR2OG9tNDRwa2swYg==)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.cauaraphael@gmail)
 
-![Cauã GitHub stats](https://github-readme-stats.vercel.app/api?username=devCauaRaphael&show_icons=true&theme=dracula) 
-
-
 ---
 
 ## 📌 Sobre Mim
 
-Com 18 anos, sou estudante de Desenvolvimento de Sistemas na ETEC, com foco em soluções web utilizando JavaScript e C#. Apaixonado por tecnologia, tenho prazer em resolver problemas — sejam eles técnicos ou do dia a dia. Fora das telas, vibro com futebol, música e a riqueza da cultura suburbana, que me inspira a enxergar o mundo com criatividade e atitude.
+Com 18 anos, sou técnico em Desenvolvimento de Sistemas(ETEC Basilides de Godoy), com foco em soluções web utilizando JavaScript e .NET. Apaixonado por tecnologia e filosofia, tenho prazer em resolver problemas — sejam eles técnicos ou do dia a dia. Fora das telas, vibro com futebol, música e a riqueza da cultura suburbana, que me inspira a enxergar o mundo com criatividade, criticidade e atitude.
 
 ---
 
@@ -65,6 +62,6 @@ Com 18 anos, sou estudante de Desenvolvimento de Sistemas na ETEC, com foco em s
 
 ## 🎓 Formações
 
-### 📘 Desenvolvimento de Sistemas – ETEC Basilides de Godoy (Conclusão: Dezembro/2025)
+### 📘 Desenvolvimento de Sistemas – ETEC Basilides de Godoy (Concluído)
 ### 🌐 Desenvolvimento Web Fullstack – OneBitCode (Concluído)
 ### 📚 Cursos Complementares – FIAP, Curso em Vídeo, OneBitCode (Java, Cloud e Cibersegurança)
